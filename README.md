@@ -1,4 +1,4 @@
-# Implementation of Suffix Array Construction Algorithms in Java 7
+# Implementation of SACA's in Java 7
 
 These codes are implementation of suffix array construction algorithms in Java 7.
 The implemented algorithms are following:
